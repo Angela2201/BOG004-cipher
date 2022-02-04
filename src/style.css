@@ -1,0 +1,75 @@
+* {
+margin: 0;
+padding: 0;
+box-sizing: border-box;
+}
+
+body {
+    background-image: url(foto.jpg);
+    height: 500px;
+    background-size: cover;
+}
+
+
+.pp{
+    width: 400px;
+    background: #dac152;
+    padding: 30px;
+    margin: auto;
+    margin-top: 100px;
+    border-radius: 4px;
+    font-family: 'Noto Sans JP', sans-serif;
+    color: black;
+    box-shadow: 7px 13px 37px #000;
+}
+
+.pp h1 {
+    font-size: 30px;
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+.pp h2 {
+    font-size: 20px;
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+.controls {
+    width: 100%;
+    background: #d3b014;
+    padding: 10px;
+    border-radius: 4px;
+    margin-bottom: 16px;
+    border: 1px solid #d1a220;
+    font-family: 'Noto Sans JP', sans-serif;
+    font-size: 18px;
+    resize: none;
+}
+
+.pp p {
+    height: 40px;
+    text-align: center;
+    font-size: 20px;
+}
+
+.pp .botons {
+    width: 100%;
+    background: #fcce03;
+    border-radius: 4px;
+    padding: 12px;
+    color: rgb(0, 0, 0);
+    margin: 16px 0;
+    font-size: 16px;
+}
+
+.pp .jump {
+    font-size: 15px;
+    margin-bottom: 15px;
+    text-align: center;
+    line-height: 20px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    background: #d3b014;
+}
