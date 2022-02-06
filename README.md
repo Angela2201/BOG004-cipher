@@ -2,6 +2,7 @@
 
 1. Prototipo 
 
+(Imagen que se encuentra en la parte de arriba del README.md)
 
 2. ¿Cómo pensaste en los usuarios y cuál fue tu proceso para definir el producto final a nivel de experiencia y de interfaz?
 
@@ -22,14 +23,12 @@ Primero cifrar y descifrar mensajes que quieren ocultar a personas externas, por
 
 5. ¿Cómo crees que el producto que estás creando está resolviendo sus problemas?
 
-Considero que mi producto puede resolver problemas de los niños y adolscentes que estan en la epoca donde lo mejor es tener secretos y solo poderselos contar a sus mejores amigos para que los escuchen o los lea, así que 
+Considero que mi producto puede resolver problemas de los niños y adolescentes que estan en la epoca donde lo mejor es tener secretos y solo poderselos contar a sus mejores amigos para que los escuchen o los lean, así que este cifrado puede ocultar y mostrar aquellas cosas que se quieren mantener en silencio. 
 
+6. Debe explicar cómo descargar, instalar y ejecutar la aplicación, así como una introducción a la aplicación, su funcionalidad y decisiones de diseño que tomaron.
 
-
-* `README.md`: debe explicar cómo descargar, instalar y ejecutar la aplicación
-  así como una introducción a la aplicación, su funcionalidad y decisiones de
-  diseño que tomaron.
-
+Al obtener el link de acceso a la página web se encuentra la pantalla principal de la aplicación, donde se encontrará un mensaje de bienvenida, y a continuación un recuadro donde el usuario colocará el mensaje o palabra que quiera cifrar o descifrar, ya que están los 2 botones continuos, si lo que la persona desea hacer de primeras es cifrar su mensaje, tiene que escoger los saltos que deseea para que el mensaje sea cifrado, y a continuación puede darle click en el botón de "cifrar" el cual codificará su mensaje para que la otra persona lo pueda obtener. Si de lo contrario lo que quiere hacer es descifrar el mensaje, puede realizarlo de 2 maneras, la primera es que desee descifrar el mensaje que le salió en el campo de texto de abajo, lo copia y lo pega en el campo de arriba y no mueve el contador de saltos, y da click al botón de descifrar, y puede ver su mensaje descifrado en la parte de abajo. La segunda manera es que haya recibido un mensaje cifrado (osea con letras que forman una frase o palabra, pero que no es comprendible leerla), del mismo modo debe obtener el número de saltos para poder descifrar el mensaje, y por útimo darle click al botón de "descifrar". 
+Es importante aclarar que la funcionalidad como el enfoque y el diseño de este proyecto va dirigido a niños y adolescententes que tienen una edad comprendida entre los 10 a 15 años, cumpliendo con el objetivo de cifrar y descifrar mensajes o palabras secretas.
 
 
 
